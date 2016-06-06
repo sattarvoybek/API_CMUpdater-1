@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "https://www.dropbox.com/s/5nkeclsez1z9iaq/cm-12.1-20160305-UNOFFICIAL-NX404H.zip?dl=1",
+    "timestamp": "1457176258",
+    "api_level": "22",
+    "md5sum": "4eff59534cfbb708c4cd5d414e4a5e13",
+    "filename": "cm-12.1-20160305-UNOFFICIAL-NX404H.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/NX404H/API_CMUpdater/master/CHANGELOG",
+    "incremental": "17bd6bdfab"
+    },
+  ],
+ "error": null
+}
